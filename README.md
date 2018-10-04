@@ -3,7 +3,7 @@
 
 The midterm project is due on class 10. You will have class 9 to continue to work on it, but it is a good idea to continue working on it. Your final submission should include a written description of your process from preprocessing through model evaluation. As a reminder of general requirements and key areas to include, refer to the midterm rubric below.
 
-<img src="Midterm_rubric.jpg" width=600>
+<img src="Midterm_Rubric.jpg" width=600>
 
 # Regression Outline Reminder
 
